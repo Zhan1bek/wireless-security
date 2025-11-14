@@ -1,0 +1,3 @@
+## Optional dependencies if you extend the scanner
+pywifi
+comtypes
