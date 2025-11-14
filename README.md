@@ -46,7 +46,6 @@ wireless-security-assessment/
 Optional / mentioned in documentation:
 
 - Python (for potential automation via `wifi_scanner.py`)
-- Third‑party Wi‑Fi tools (Wireshark, nmcli, etc.) – referenced but not required
 
 ---
 
